@@ -1,4 +1,0 @@
-group_vars/all/pass.yml
-inventory.ini
-vault.pass
-.gitignore
